@@ -5774,6 +5774,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 creta_common
+creta_studio_io
+creta_studio_model
+creta_user_io
+creta_user_model
 
 TODO: Add your license here.
 
